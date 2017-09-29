@@ -1,0 +1,11 @@
+html { font-family: 'Open Sans', sans-serif; }
+body { font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, clean, sans-serif; }
+.form-simple label, .form-simple .fieldset-inner .legend-wrap, .repeater-heading { font-weight: bold; }
+.js .divider div { font-weight: bold; font-size: 1.15rem; }
+.repeater { margin-left: 72px; border-bottom: 1px solid #ccc; }
+a.primary:link, a.primary:visited, .primary { font-weight: bold; }
+.title-panel .button,
+.button.to-the-top,
+.title-panel .button.button-icon { background-color: #6db0ae; border: 1px solid #418f8c; color: #fff; }
+.button.to-the-top.button-icon svg,
+.title-panel .button.button-icon svg { fill: #fff; }
